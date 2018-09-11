@@ -11,8 +11,8 @@ Here's a little inspiration from one of my fav's:
     print("This scripting language was "[-1] + inspiredBy)
 
 
- [x] learn continuously
- - [x] operate with the heart of a teacher
+ - [x] learn continuously
+ - [x] operate from the heart of a teacher
  - [ ] inspire others to do the same
  
 
