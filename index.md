@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Welcome to the LRninja's Script-tools GitHub Page 
 
-You can use the [editor on GitHub](https://github.com/LRninja/script-tools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my catch all for tools I'm tinkering with. Feel free to browse and be inspired, or just get a good chuckle. These are all a work in progress. Much like yourself, don't take them too seriously. You can probably do a better job, so have at it! Pick up your favorite shell, editor or IDE and code the night away. That is, unless you have an important appointment in the morning, but hey... its your life. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Learn continuously, practice often, do good, love and live it well! 
 
-### Markdown
+Here's a little inspiration from one of my fav's:
+```python3
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+inspiredBy = "Monte {}".format("Python")
 
-```markdown
-Syntax highlighted code block
+print("This scripting language was "[-1] + inspiredBy)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ - [x] learn continuously
+ - [x] operate with the heart of a teacher
+ - [ ] inspire others to do the same
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LRninja/script-tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+/play 56k
+/play unix
