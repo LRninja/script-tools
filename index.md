@@ -5,7 +5,7 @@ This is my catch all for tools I'm tinkering with. Feel free to browse and be in
 ## Learn continuously, practice often, do good, love and live it well! 
 
 Here's a little inspiration from one of my fav's:
-```python3
+```python
 
 inspiredBy = "Monte {}".format("Python")
 
