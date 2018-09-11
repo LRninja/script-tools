@@ -5,11 +5,11 @@ This is my catch all for tools I'm tinkering with. Feel free to browse and be in
 ## Learn continuously, practice often, do good, love and live it well! 
 
 Here's a little inspiration from one of my fav's:
-
+    ```python
     inspiredBy = "Monte {}".format("Python")
     
     print("This scripting language was "[-1] + inspiredBy)
-
+    ```
 
  - [x] learn continuously
  - [x] operate from the heart of a teacher
