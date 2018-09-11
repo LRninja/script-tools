@@ -14,7 +14,7 @@ print("This scripting language was "[-1] + inspiredBy)
  - [x] learn continuously
  - [x] operate with the heart of a teacher
  - [ ] inspire others to do the same
+ 
+/play 56k  /play unix
 ```
 
-/play 56k
-/play unix
