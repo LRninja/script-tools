@@ -13,8 +13,8 @@ This can be any of the following: { SHA1 | SHA256 | SHA384 | SHA512 | MACTripleD
 
 .NOTE
 Name:   HshThis.ps1
-Author: Ben Hershberger
-Email:  bhershberger10@gmail.com
+Author: LRninja
+Email:  37206777+LRninja@users.noreply.github.com
 
 .SYNTAX
 HshThis.ps1 [FilePath] <string[]> [Reference] <string[]> [Algorithm <string[]> { SHA1 | SHA256 | SHA384 | SHA512 | MACTripleDES | MD5 | RIPEMD160 }]
